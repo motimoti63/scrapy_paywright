@@ -15,9 +15,12 @@ TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 
 PLAYWRIGHT_BROWSER_TYPE = "chromium"
 
-FEEDS = {
-    'quotes.csv': {
-        'format': 'csv',
-        'fields': ['text', 'author'],  # 出力したいカラムを指定
-    },
-}
+# FEEDS = {
+#     'quotes.csv': {
+#         'format': 'csv',
+#         'fields': ['text', 'author'],  # 出力したいカラムを指定
+#     },
+# }
+
+FEED_EXPORT_ENCODING = "utf-8"
+FEED_EXPORT_INDENT = 4
