@@ -14,3 +14,10 @@ DOWNLOAD_HANDLERS = {
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 
 PLAYWRIGHT_BROWSER_TYPE = "chromium"
+
+FEEDS = {
+    'quotes.csv': {
+        'format': 'csv',
+        'fields': ['text', 'author'],  # 出力したいカラムを指定
+    },
+}
