@@ -1,0 +1,74 @@
+[
+{
+    "property_id": "1",
+    "image_url": "https://kzmlywhd669dcr21t5cl.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+    "title": "東京タワービュー 高級マンション",
+    "address": "東京都港区芝公園4-2-8",
+    "price": "¥85,000,000",
+    "type": "マンション",
+    "size": "75.5㎡",
+    "layout": "3LDK",
+    "year": "2018年",
+    "station": "御成門駅 徒歩5分"
+},
+{
+    "property_id": "2",
+    "image_url": "https://kzmlywhd669dcr21t5cl.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+    "title": "新宿駅近 リノベーションマンション",
+    "address": "東京都新宿区西新宿1-1-1",
+    "price": "¥62,000,000",
+    "type": "マンション",
+    "size": "60.2㎡",
+    "layout": "2LDK",
+    "year": "2010年",
+    "station": "新宿駅 徒歩3分"
+},
+{
+    "property_id": "3",
+    "image_url": "https://kzmlywhd669dcr21t5cl.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+    "title": "渋谷区 閑静な住宅街の一戸建て",
+    "address": "東京都渋谷区富ヶ谷2-10-12",
+    "price": "¥120,000,000",
+    "type": "一戸建て",
+    "size": "120.8㎡",
+    "layout": "4LDK",
+    "year": "2015年",
+    "station": "代々木公園駅 徒歩10分"
+},
+{
+    "property_id": "4",
+    "image_url": "https://kzmlywhd669dcr21t5cl.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+    "title": "目黒川沿い 高級タワーマンション",
+    "address": "東京都目黒区上目黒1-5-10",
+    "price": "¥95,000,000",
+    "type": "マンション",
+    "size": "85.3㎡",
+    "layout": "3LDK",
+    "year": "2020年",
+    "station": "中目黒駅 徒歩7分"
+},
+{
+    "property_id": "5",
+    "image_url": "https://kzmlywhd669dcr21t5cl.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+    "title": "世田谷区 庭付き一戸建て",
+    "address": "東京都世田谷区成城6-15-20",
+    "price": "¥135,000,000",
+    "type": "一戸建て",
+    "size": "150.5㎡",
+    "layout": "5LDK",
+    "year": "2017年",
+    "station": "成城学園前駅 徒歩12分"
+},
+{
+    "property_id": "6",
+    "image_url": "https://kzmlywhd669dcr21t5cl.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+    "title": "品川駅前 タワーマンション",
+    "address": "東京都港区高輪4-10-18",
+    "price": "¥78,000,000",
+    "type": "マンション",
+    "size": "70.8㎡",
+    "layout": "2LDK",
+    "year": "2019年",
+    "station": "品川駅 徒歩5分"
+}
+]
